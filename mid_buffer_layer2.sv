@@ -146,269 +146,269 @@ output reg [31:0] data_out_64 [0:1][0:1],
 
     
     // 첫 번째 신호 그룹
-output integer y,
+output reg[10:0] y,
 output reg [10:0] m,
-output integer y_2,
+output reg[10:0] y_2,
 output reg [10:0] m_2,
-output integer y_3,
+output reg[10:0] y_3,
 output reg [10:0] m_3,
-output integer y_4,
+output reg[10:0] y_4,
 output reg [10:0] m_4,
-output integer y_5,
+output reg[10:0] y_5,
 output reg [10:0] m_5,
-output integer y_6,
+output reg[10:0] y_6,
 output reg [10:0] m_6,
-output integer y_7,
+output reg[10:0] y_7,
 output reg [10:0] m_7,
-output integer y_8,
+output reg[10:0] y_8,
 output reg [10:0] m_8,
-output integer y_9,
+output reg[10:0] y_9,
 output reg [10:0] m_9,
-output integer y_10,
+output reg[10:0] y_10,
 output reg [10:0] m_10,
-output integer y_11,
+output reg[10:0] y_11,
 output reg [10:0] m_11,
-output integer y_12,
+output reg[10:0] y_12,
 output reg [10:0] m_12,
-output integer y_13,
+output reg[10:0] y_13,
 output reg [10:0] m_13,
-output integer y_14,
+output reg[10:0] y_14,
 output reg [10:0] m_14,
-output integer y_15,
+output reg[10:0] y_15,
 output reg [10:0] m_15,
-output integer y_16,
+output reg[10:0] y_16,
 output reg [10:0] m_16,
-output integer y_17,
+output reg[10:0] y_17,
 output reg [10:0] m_17,
-output integer y_18,
+output reg[10:0] y_18,
 output reg [10:0] m_18,
-output integer y_19,
+output reg[10:0] y_19,
 output reg [10:0] m_19,
-output integer y_20,
+output reg[10:0] y_20,
 output reg [10:0] m_20,
-output integer y_21,
+output reg[10:0] y_21,
 output reg [10:0] m_21,
-output integer y_22,
+output reg[10:0] y_22,
 output reg [10:0] m_22,
-output integer y_23,
+output reg[10:0] y_23,
 output reg [10:0] m_23,
-output integer y_24,
+output reg[10:0] y_24,
 output reg [10:0] m_24,
-output integer y_25,
+output reg[10:0] y_25,
 output reg [10:0] m_25,
-output integer y_26,
+output reg[10:0] y_26,
 output reg [10:0] m_26,
-output integer y_27,
+output reg[10:0] y_27,
 output reg [10:0] m_27,
-output integer y_28,
+output reg[10:0] y_28,
 output reg [10:0] m_28,
-output integer y_29,
+output reg[10:0] y_29,
 output reg [10:0] m_29,
-output integer y_30,
+output reg[10:0] y_30,
 output reg [10:0] m_30,
-output integer y_31,
+output reg[10:0] y_31,
 output reg [10:0] m_31,
-output integer y_32,
+output reg[10:0] y_32,
 output reg [10:0] m_32,
-output integer y_33,
+output reg[10:0] y_33,
 output reg [10:0] m_33,
-output integer y_34,
+output reg[10:0] y_34,
 output reg [10:0] m_34,
-output integer y_35,
+output reg[10:0] y_35,
 output reg [10:0] m_35,
-output integer y_36,
+output reg[10:0] y_36,
 output reg [10:0] m_36,
-output integer y_37,
+output reg[10:0] y_37,
 output reg [10:0] m_37,
-output integer y_38,
+output reg[10:0] y_38,
 output reg [10:0] m_38,
-output integer y_39,
+output reg[10:0] y_39,
 output reg [10:0] m_39,
-output integer y_40,
+output reg[10:0] y_40,
 output reg [10:0] m_40,
-output integer y_41,
+output reg[10:0] y_41,
 output reg [10:0] m_41,
-output integer y_42,
+output reg[10:0] y_42,
 output reg [10:0] m_42,
-output integer y_43,
+output reg[10:0] y_43,
 output reg [10:0] m_43,
-output integer y_44,
+output reg[10:0] y_44,
 output reg [10:0] m_44,
-output integer y_45,
+output reg[10:0] y_45,
 output reg [10:0] m_45,
-output integer y_46,
+output reg[10:0] y_46,
 output reg [10:0] m_46,
-output integer y_47,
+output reg[10:0] y_47,
 output reg [10:0] m_47,
-output integer y_48,
+output reg[10:0] y_48,
 output reg [10:0] m_48,
-output integer y_49,
+output reg[10:0] y_49,
 output reg [10:0] m_49,
-output integer y_50,
+output reg[10:0] y_50,
 output reg [10:0] m_50,
-output integer y_51,
+output reg[10:0] y_51,
 output reg [10:0] m_51,
-output integer y_52,
+output reg[10:0] y_52,
 output reg [10:0] m_52,
-output integer y_53,
+output reg[10:0] y_53,
 output reg [10:0] m_53,
-output integer y_54,
+output reg[10:0] y_54,
 output reg [10:0] m_54,
-output integer y_55,
+output reg[10:0] y_55,
 output reg [10:0] m_55,
-output integer y_56,
+output reg[10:0] y_56,
 output reg [10:0] m_56,
-output integer y_57,
+output reg[10:0] y_57,
 output reg [10:0] m_57,
-output integer y_58,
+output reg[10:0] y_58,
 output reg [10:0] m_58,
-output integer y_59,
+output reg[10:0] y_59,
 output reg [10:0] m_59,
-output integer y_60,
+output reg[10:0] y_60,
 output reg [10:0] m_60,
-output integer y_61,
+output reg[10:0] y_61,
 output reg [10:0] m_61,
-output integer y_62,
+output reg[10:0] y_62,
 output reg [10:0] m_62,
-output integer y_63,
+output reg[10:0] y_63,
 output reg [10:0] m_63,
-output integer y_64,
+output reg[10:0] y_64,
 output reg [10:0] m_64,
 
 output reg state
    );
 
 
-integer i,j;
+reg[10:0] i,j;
 reg delay;
 
-// Integer 및 reg 신호 선언
-integer k, t;
-integer k_2, t_2;
+// reg[10:0] 및 reg 신호 선언
+reg[10:0] k, t;
+reg[10:0] k_2, t_2;
 reg state_2;
-integer k_3, t_3;
+reg[10:0] k_3, t_3;
 reg state_3;
-integer k_4, t_4;
+reg[10:0] k_4, t_4;
 reg state_4;
-integer k_5, t_5;
+reg[10:0] k_5, t_5;
 reg state_5;
-integer k_6, t_6;
+reg[10:0] k_6, t_6;
 reg state_6;
-integer k_7, t_7;
+reg[10:0] k_7, t_7;
 reg state_7;
-integer k_8, t_8;
+reg[10:0] k_8, t_8;
 reg state_8;
-integer k_9, t_9;
+reg[10:0] k_9, t_9;
 reg state_9;
-integer k_10, t_10;
+reg[10:0] k_10, t_10;
 reg state_10;
-integer k_11, t_11;
+reg[10:0] k_11, t_11;
 reg state_11;
-integer k_12, t_12;
+reg[10:0] k_12, t_12;
 reg state_12;
-integer k_13, t_13;
+reg[10:0] k_13, t_13;
 reg state_13;
-integer k_14, t_14;
+reg[10:0] k_14, t_14;
 reg state_14;
-integer k_15, t_15;
+reg[10:0] k_15, t_15;
 reg state_15;
-integer k_16, t_16;
+reg[10:0] k_16, t_16;
 reg state_16;
-integer k_17, t_17;
+reg[10:0] k_17, t_17;
 reg state_17;
-integer k_18, t_18;
+reg[10:0] k_18, t_18;
 reg state_18;
-integer k_19, t_19;
+reg[10:0] k_19, t_19;
 reg state_19;
-integer k_20, t_20;
+reg[10:0] k_20, t_20;
 reg state_20;
-integer k_21, t_21;
+reg[10:0] k_21, t_21;
 reg state_21;
-integer k_22, t_22;
+reg[10:0] k_22, t_22;
 reg state_22;
-integer k_23, t_23;
+reg[10:0] k_23, t_23;
 reg state_23;
-integer k_24, t_24;
+reg[10:0] k_24, t_24;
 reg state_24;
-integer k_25, t_25;
+reg[10:0] k_25, t_25;
 reg state_25;
-integer k_26, t_26;
+reg[10:0] k_26, t_26;
 reg state_26;
-integer k_27, t_27;
+reg[10:0] k_27, t_27;
 reg state_27;
-integer k_28, t_28;
+reg[10:0] k_28, t_28;
 reg state_28;
-integer k_29, t_29;
+reg[10:0] k_29, t_29;
 reg state_29;
-integer k_30, t_30;
+reg[10:0] k_30, t_30;
 reg state_30;
-integer k_31, t_31;
+reg[10:0] k_31, t_31;
 reg state_31;
-integer k_32, t_32;
+reg[10:0] k_32, t_32;
 reg state_32;
-integer k_33, t_33;
+reg[10:0] k_33, t_33;
 reg state_33;
-integer k_34, t_34;
+reg[10:0] k_34, t_34;
 reg state_34;
-integer k_35, t_35;
+reg[10:0] k_35, t_35;
 reg state_35;
-integer k_36, t_36;
+reg[10:0] k_36, t_36;
 reg state_36;
-integer k_37, t_37;
+reg[10:0] k_37, t_37;
 reg state_37;
-integer k_38, t_38;
+reg[10:0] k_38, t_38;
 reg state_38;
-integer k_39, t_39;
+reg[10:0] k_39, t_39;
 reg state_39;
-integer k_40, t_40;
+reg[10:0] k_40, t_40;
 reg state_40;
-integer k_41, t_41;
+reg[10:0] k_41, t_41;
 reg state_41;
-integer k_42, t_42;
+reg[10:0] k_42, t_42;
 reg state_42;
-integer k_43, t_43;
+reg[10:0] k_43, t_43;
 reg state_43;
-integer k_44, t_44;
+reg[10:0] k_44, t_44;
 reg state_44;
-integer k_45, t_45;
+reg[10:0] k_45, t_45;
 reg state_45;
-integer k_46, t_46;
+reg[10:0] k_46, t_46;
 reg state_46;
-integer k_47, t_47;
+reg[10:0] k_47, t_47;
 reg state_47;
-integer k_48, t_48;
+reg[10:0] k_48, t_48;
 reg state_48;
-integer k_49, t_49;
+reg[10:0] k_49, t_49;
 reg state_49;
-integer k_50, t_50;
+reg[10:0] k_50, t_50;
 reg state_50;
-integer k_51, t_51;
+reg[10:0] k_51, t_51;
 reg state_51;
-integer k_52, t_52;
+reg[10:0] k_52, t_52;
 reg state_52;
-integer k_53, t_53;
+reg[10:0] k_53, t_53;
 reg state_53;
-integer k_54, t_54;
+reg[10:0] k_54, t_54;
 reg state_54;
-integer k_55, t_55;
+reg[10:0] k_55, t_55;
 reg state_55;
-integer k_56, t_56;
+reg[10:0] k_56, t_56;
 reg state_56;
-integer k_57, t_57;
+reg[10:0] k_57, t_57;
 reg state_57;
-integer k_58, t_58;
+reg[10:0] k_58, t_58;
 reg state_58;
-integer k_59, t_59;
+reg[10:0] k_59, t_59;
 reg state_59;
-integer k_60, t_60;
+reg[10:0] k_60, t_60;
 reg state_60;
-integer k_61, t_61;
+reg[10:0] k_61, t_61;
 reg state_61;
-integer k_62, t_62;
+reg[10:0] k_62, t_62;
 reg state_62;
-integer k_63, t_63;
+reg[10:0] k_63, t_63;
 reg state_63;
-integer k_64, t_64;
+reg[10:0] k_64, t_64;
 reg state_64;
 
 
