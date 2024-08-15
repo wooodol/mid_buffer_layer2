@@ -148,7 +148,7 @@ reg [10:0] m;
 integer i;
 wire state;
 
-channel_buffer uut(
+channel_buffer2 uut(
     .valid_in(valid_in),
     .rst_n(rst_n),
     .data_in(data_in),
