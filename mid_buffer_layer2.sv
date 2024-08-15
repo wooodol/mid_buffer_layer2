@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-module channel_buffer#(parameter
+module channel_buffer2#(parameter
 IMAGE_WIDTH = 13,
 IMAGE_HEIGHT = 17,
 CHANNELS = 64,
